@@ -1,0 +1,4 @@
+pyrefly
+circup
+micropython-stubs
+circuitpython-stubs

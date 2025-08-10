@@ -1,0 +1,5 @@
+{
+  "name": "circuitpython-dev",
+  "image": "mcr.microsoft.com/devcontainers/python:latest",
+  "postCreateCommand": "pip install -r requirements-dev.txt"
+}
